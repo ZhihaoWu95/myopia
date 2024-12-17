@@ -1,0 +1,13 @@
+diffusers==0.13.1
+triton==2.2.0
+xformers==0.0.25
+transformers
+datasets
+accelerate
+ftfy
+tensorboard
+Jinja2
+tqdm
+torch==2.2.1
+torchvision==0.17.1
+--extra-index-url https://download.pytorch.org/whl/cu122
