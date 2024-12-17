@@ -21,7 +21,7 @@ Our code relies on the [diffusers](https://github.com/huggingface/diffusers) lib
 Install dependencies:
 
 ```shell
-cd MYOPIA
+cd myopia
 
 conda create -n myopia python=3.9 
 
@@ -67,4 +67,3 @@ If you want to generate images from the trained models, you can run
 ```bash
 bash scripts/infer.sh
 ```
-# myopia
